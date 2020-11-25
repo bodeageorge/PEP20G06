@@ -20,3 +20,13 @@ print(number3)
 
 
 print(number1.__add__(2))
+
+print("    *", "\n", "  * *")
+
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+
